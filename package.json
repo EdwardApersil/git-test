@@ -18,4 +18,7 @@
     "url": "https://github.com/EdwardApersil/git-test/issues"
   },
   "homepage": "https://github.com/EdwardApersil/git-test#readme",
- 
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
